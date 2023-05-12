@@ -1,5 +1,5 @@
 export const OWNER = "YYuanYuanAI";
-export const REPO = "圆圆AI实验室(ChatGPT)";
+export const REPO = "圆圆AI实验室(ChatGPT Next Web)";
 export const REPO_URL = `http://www.yuanyuandata.com`;
 export const ISSUE_URL = `http://www.yuanyuandata.com`;
 export const UPDATE_URL = `http://www.yuanyuandata.com`;
